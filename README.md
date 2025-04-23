@@ -1,5 +1,5 @@
 # thinkvault
-###🔐 ThinkVault
+### 🔐 ThinkVault
 
 🎯 A simple AI-powered idea locker that proves you thought of it first!
 
